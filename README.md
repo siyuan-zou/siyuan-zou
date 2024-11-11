@@ -48,9 +48,8 @@ I'm now focuings on **AI** and **machine learning**, especially **multimodal com
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+### 🐍 My Contributions
 <div align="left">
-  <h3>My Contributions 🐍</h3>
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
