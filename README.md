@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋 I am Siyuan</h2>
 
-### 👩‍💻 About Me: an AI scientist and a previous pure math student
+### 👩‍💻 An AI scientist and a previous pure math student
 If you love math, check out [my math studies and articles](https://siyuan-zou.github.io/)
 
 I'm now focuings on **AI** and **machine learning**, especially **multimodal computer vision**. I enjoy solving complex problems and working on cutting-edge projects. My goal is to combine technical skills with entrepreneurship to build innovative solutions.
