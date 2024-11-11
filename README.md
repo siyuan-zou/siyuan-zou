@@ -1,13 +1,11 @@
 <h2 align="left">Hi 👋 I am Siyuan</h2>
 
-### An AI scientist and a previous pure math student
+### 👩‍💻 About Me: an AI scientist and a previous pure math student
 If you love math, check out [my math studies and articles](https://siyuan-zou.github.io/)
 
-### 👩‍💻 About Me
+I'm now focuings on **AI** and **machine learning**, especially **multimodal computer vision**. I enjoy solving complex problems and working on cutting-edge projects. My goal is to combine technical skills with entrepreneurship to build innovative solutions.
 
-I'm a programmer focused on **AI**, **machine learning**, and **quantitative finance**. I enjoy solving complex problems and working on cutting-edge projects. My goal is to combine technical skills with entrepreneurship to build innovative solutions.
-
-###
+### 🛠️ Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -43,7 +41,7 @@ I'm a programmer focused on **AI**, **machine learning**, and **quantitative fin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
 
-###
+### 🌍 Let's Connect
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
