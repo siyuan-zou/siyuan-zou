@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! I am Siyuan, an AI scientist and a previous math student from Paris</h2>
+<h2 align="left">Hi 👋 I am Siyuan, an AI scientist and a previous math student from Paris</h2>
+
+### 👩‍💻 About Me
+
+I'm a programmer focused on **AI**, **machine learning**, and **quantitative finance**. I enjoy solving complex problems and working on cutting-edge projects. My goal is to combine technical skills with entrepreneurship to build innovative solutions.
 
 ###
 
