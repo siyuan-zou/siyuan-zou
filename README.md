@@ -49,7 +49,7 @@ I'm a programmer focused on **AI**, **machine learning**, and **quantitative fin
 
 ###
 <div align="left">
-  <h2>My Contributions 🐍</h2>
+  <h3>My Contributions 🐍</h3>
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
