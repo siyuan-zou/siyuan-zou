@@ -1,16 +1,34 @@
-## Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**siyuan-zou/siyuan-zou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Siyuan**, a passionate and curious **programmer** and **data scientist**. Welcome to my GitHub, where I share projects, code snippets, and contributions to various open-source projects. 🚀
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **AI**, **machine learning**, and **computer vision**.
+- 🔭 I’m working on **quantitative finance**, **robotics**, and **entrepreneurship**.
+- 💼 I’m seeking opportunities for **AI research** and **quantitative trading** roles.
+- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+
+## 🛠️ Technologies I Use
+
+- **Languages**: Python, C++, JavaScript, R
+- **Tools**: Git, Docker, Jupyter Notebooks, TensorFlow, PyTorch
+- **Databases**: SQL, MongoDB
+- **Others**: AWS, Kubernetes, GitHub Actions
+
+## 💻 Current Learning Goals
+
+- **Deep Learning**: Working with neural networks, reinforcement learning, and GANs.
+- **AI Entrepreneurship**: Exploring how to start and grow tech businesses.
+- **Financial Analytics**: Developing strategies for quantitative trading and risk analysis.
+
+## 📸 Here’s a little animation of me coding:
+
+![Female Asian Programmer](https://yourlinkhere.com/animation.gif)
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and ask me anything! 👨‍💻
+
+---
+*Let's build something awesome together!* ✨
