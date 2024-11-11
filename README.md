@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-Hi there! I'm **Siyuan**, a passionate and curious **programmer** and **AI scientist**, and a previous math student. [My math studies](https://siyuan-zou.github.io/)
+Hi there! I'm **Siyuan**, a passionate and curious **programmer** and **AI scientist**, and a previous math student. [My math studies and articles](https://siyuan-zou.github.io/)
 
 ## 👩‍💻 About Me
 
