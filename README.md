@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋 I am Siyuan, an AI scientist and a previous math student from Paris</h2>
+<h2 align="left">Hi 👋 I am Siyuan</h2>
+
+### An AI scientist and a previous pure math student
+If you love math, check out [my math studies and articles](https://siyuan-zou.github.io/)
 
 ### 👩‍💻 About Me
 
