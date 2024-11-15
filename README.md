@@ -5,7 +5,7 @@ If you love math, check out [my math studies and articles](https://siyuan-zou.gi
 
 I'm now focusing on **AI** and **machine learning**, especially **multimodal computer vision**. I enjoy solving complex problems and working on cutting-edge projects. My goal is to combine technical skills with entrepreneurship to build innovative solutions.
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -41,7 +41,7 @@ I'm now focusing on **AI** and **machine learning**, especially **multimodal com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
 
-### 🌍 Let's Connect
+### Let's Connect
 
 <div align="left">
   <a href="mailto:siyuan.zou00@gmail.com">
